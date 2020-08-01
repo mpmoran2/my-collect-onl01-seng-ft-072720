@@ -7,3 +7,5 @@ def my_collect(array)
   end
   names_collection #return to make sure the method works
 end
+
+#make sure you check spelling
